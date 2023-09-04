@@ -1,0 +1,67 @@
+#img-qr{
+    width: 275px;
+    border-radius: 10px;
+    margin-bottom: 0;
+}
+
+body{
+    background-color: hsl(212, 45%, 89%);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    display: block;
+    border-radius: 8px;
+    /* padding: 10px;  */
+}
+/* Trying to figure out what is right or wrong */
+/* Not sure if this is necessary */
+/* Might take this out later */
+.body-qr{
+    width: 275px;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 15px;
+    padding-bottom: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: white;
+    font-family: 'Outfit', sans-serif;
+    font-size: 15px;
+    /* font-weight: 800; */
+    /* 700; */
+   
+    
+    
+} 
+
+.attribution {
+     font-size: 11px; text-align: center; 
+    }
+    .attribution a {
+         color: hsl(228, 45%, 44%);
+         }
+
+/* p{
+    font-size: 15px;
+    border: 4 solid black;
+} */
+
+#text-1 {
+    color: hsl(218, 44%, 22%);
+   font-weight: 900; 
+   font-weight: bold;
+    font-size: 21px;
+    padding: 15px;
+    padding-bottom: 10px;
+    margin-top: 4px;
+    margin-bottom: 0; 
+}
+
+#text-2{
+    color: hsl(220, 15%, 55%);
+    padding: 10px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
