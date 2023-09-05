@@ -12,11 +12,9 @@ body{
     margin-top: 100px;
     display: block;
     border-radius: 8px;
-    /* padding: 10px;  */
+    
 }
-/* Trying to figure out what is right or wrong */
-/* Not sure if this is necessary */
-/* Might take this out later */
+
 .body-qr{
     width: 275px;
     border-radius: 20px;
@@ -28,11 +26,7 @@ body{
     padding-right: 15px;
     background-color: white;
     font-family: 'Outfit', sans-serif;
-    font-size: 15px;
-    /* font-weight: 800; */
-    /* 700; */
-   
-    
+    font-size: 15px;    
     
 } 
 
@@ -42,11 +36,6 @@ body{
     .attribution a {
          color: hsl(228, 45%, 44%);
          }
-
-/* p{
-    font-size: 15px;
-    border: 4 solid black;
-} */
 
 #text-1 {
     color: hsl(218, 44%, 22%);
